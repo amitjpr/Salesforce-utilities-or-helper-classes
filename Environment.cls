@@ -1,5 +1,5 @@
 /************************************************************************************************************************
-* This file is part of the SFDC core Framework project, released under the MIT License.                                    *
+* This file is part of the SFDC core Framework project, released under the MIT License.                                 *
 * See LICENSE file or go to https://github.com/amitjpr/Salesforce-utilities-or-helper-classes for full license details. *
 ************************************************************************************************************************/
 
