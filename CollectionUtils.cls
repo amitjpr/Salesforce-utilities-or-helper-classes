@@ -103,6 +103,6 @@ public without sharing class CollectionUtils {
         } catch(System.TypeException ex) {
             return ex.getMessage().contains('Map<');
         }
-    }
+    } 
 
 }
