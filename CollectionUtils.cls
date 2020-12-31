@@ -4,7 +4,7 @@
 ************************************************************************************************************************/
 
 /** 
-* 
+*  
 * @group Utils
 *
 * @description A utility class to help with dealing with collections (lists, sets & maps)
