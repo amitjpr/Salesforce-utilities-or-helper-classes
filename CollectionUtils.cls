@@ -19,7 +19,7 @@ public without sharing class CollectionUtils {
    * @example
    * List<String> myList = new List<String>{'A', B', 'C'};
    * String lastItem = CollectionUtils.getLastItem(myList);
-   * System.assertEquals('C', lastItem);
+   * System.assertEquals('C', lastItem); 
    */
     public static Object getLastItem(List<Object> listOfItems) {
         Integer indexOfItem = listOfItems.size() - 1;
